@@ -1,0 +1,41 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+  }
+  
+  .bgimg-1{
+    position: relative;
+    opacity: 0.65;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  .bgimg-1 {
+    background-image: url("../picture/urban1.jpg");
+    height: 100%;
+  }
+  
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .caption span.border {
+    background-color: rgba(17, 17, 17, 0.781);
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+  }
+
+
+
+
+
+

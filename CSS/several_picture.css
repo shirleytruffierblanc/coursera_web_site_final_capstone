@@ -1,0 +1,20 @@
+.thumbnail {
+	padding-top: 5%;
+	max-width: 50px;
+	cursor: pointer; 
+}
+
+#background{
+	background: no-repeat;
+	width: 46%;
+	height: 46%;
+	position: fixed;
+	padding-bottom: 10%;
+}
+#background > img{
+	max-width: 85%;
+	position: relative;
+	left: 50%; 
+	top: 50%;
+	padding-left: 15%;
+} 
